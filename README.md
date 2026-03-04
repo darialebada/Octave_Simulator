@@ -2,6 +2,7 @@
 
 #### PCLP1
 
+
 ## Tema 2 - Simulator de Octave (alocare dinamica)
 
 In rezolvarea temei am utilizat un vector de matrice (vector_matrice) alocat
